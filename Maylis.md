@@ -18,9 +18,13 @@ short_description:Je suis Maylis Gaillard, j'ai 24 ans. Je suis en reconversion 
 # don't touch that
 template: students
 description:
+
 J'ai eu en 2016 mon Bac pro TCVA (Technitien conseil vente en animalerie).
+
 J'ai exercés de nombreux stages et postes en cdd dans différentes enseignes.
+
 Je suis en reconversion professionnelle car il y a que peu d'offre d'emploi.
+
 Mes hobbys sont:  les mangas, les jeux vidéos, dessiner, m'occuper de mes animaux.
 La formation me plait, malgré les difficultées que je rencontre. 
 
